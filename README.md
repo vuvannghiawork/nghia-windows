@@ -3,6 +3,7 @@
 - Chỉnh lại múi giờ thời gian
 - Chỉnh lại hiển thị đuôi file và hiện file ẩn
 - Chỉnh lại TaskBar: icon search + thời tiết
+- Bật chức năng Windows +V
 - Thêm Vân tay + Không thêm face id
 
 ##
