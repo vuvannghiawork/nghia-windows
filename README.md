@@ -58,8 +58,8 @@ git config --global user.name "Vu Van Nghia"
 git config --global core.editor "code --wait"
 git config --global pull.rebase true
 git config --global pull.autostash true
-git clone https://github.com/vuvannghiawork/nghia-windows
-git clone https://github.com/vuvannghiawork/nghia-clone-github
+cd ~/Desktop && git clone https://github.com/vuvannghiawork/nghia-windows
+cd ~/Desktop && git clone https://github.com/vuvannghiawork/nghia-clone-github
 ```
 
 Cài đặt Docker
